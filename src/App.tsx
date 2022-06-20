@@ -13,7 +13,7 @@ function App() {
 
   return (
     <CurrencyProvider>
-      <div className="w-[1920px] h-[1080px] p-32">
+      <div className="w-[400px] h-[600px]  bg-slate-900 text-white bg-opacity-50">
         Crypto Tracker
 
         <CurrenciesRates />
